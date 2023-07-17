@@ -1,6 +1,6 @@
 <h2 style="color: #44AEFB">👋 About me</h2>
 <p style="text-align: margin: 0 50px; font-size: 17px;" >
-    I'm newly graduaded Computer Science Engineer. I wrote my thesis about making Home Security System using Raspberry Pi.
+    I'm newly graduated Computer Science Engineer. I wrote my thesis about making Home Security System using Raspberry Pi.
 <br>
 <!-- Languages and Tools -->
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
