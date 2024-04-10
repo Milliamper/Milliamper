@@ -1,7 +1,7 @@
 <h2 style="color: #44AEFB">👋 About me</h2>
 <p style="text-align: margin: 0 50px; font-size: 17px;" >
 I obtained my degree in Computer Science Engineering at the University of Miskolc in the summer of 2023. I wrote my thesis about making Home Security System using Raspberry Pi.
-In addition to my full-time job, I deal with smart home development (Home Assistant) and ESP32 programming. 
+In addition to my full-time job, I deal with smart home configuration (Home Assistant) and ESP32 programming. 
 <br>
 <!-- Languages and Tools -->
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
