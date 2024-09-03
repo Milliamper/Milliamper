@@ -83,7 +83,7 @@ In addition to my full-time job, I deal with smart home configuration (Home Assi
 ![Márton Szalai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milliamper&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Milliamper&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Milliamper&count_private=true&theme=algolia&border_radius=20) ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=Milliamper&theme=beach)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
