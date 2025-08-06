@@ -55,7 +55,7 @@ In addition to my full-time job, I deal with smart home configuration (Home Assi
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg"/>
   </a>
     <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer">
-      <img  alt="homeassistant" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Home_Assistant_Logo.svg/1200px-Home_Assistant_Logo.svg.png"/>
+      <img  alt="homeassistant" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/a/ab/New_Home_Assistant_logo.svg"/>
   </a>
   <a href="https://www.ptc.com/en/products/creo" target="_blank" rel="noreferrer">
       <img  alt="ptc" height="50px" style="padding-right:10px;"src="https://img.icons8.com/?size=512&id=nHO01oOdNoK4&format=png"/>
